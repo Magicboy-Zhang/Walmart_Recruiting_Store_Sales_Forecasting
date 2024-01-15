@@ -289,9 +289,5 @@ Thus I decide to use CatBoostRegressor, by doing Grid Search CV:
 
 ### 7. Further Improments and Limitation of this project
 
-The biggest challenge facing this project is the tight schedule, as next week is the exam week. So I spent only about 1.5 day to complete it.
-
-![image](https://github.com/Magicboy-Zhang/Walmart_Recruiting_Store_Sales_Forecasting/assets/74690677/56c68df7-2bdb-40d0-a0cf-1bcb3e3d26c3)
-
 I believe there is still much untapped potential in the markdown features, such as finding better ways to fill missing values. A detailed investigation of people's purchasing habits during various holidays can also aid in predictions. Most importantly, with enough time, I can add more features to the model and try methods that require longer learning times (such as increasing the number of trees, adjusting the learning rate, etc.), which also applies to the final grid search. Considering changing from 3-fold to 5-fold cross-validation could yield more convincing results. I could try a variety of models, spend more time tuning parameters, and attempt to construct new features from existing ones. Exploring principal component analysis and using wrapper methods like recursive feature elimination with cross-validation could spend more time selecting the optimal feature subset.
 
