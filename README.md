@@ -1,5 +1,4 @@
 # Walmart_Recruiting_Store_Sales_Forecasting
-Data Analyst Internship Take Home Assessment
 
 ---  
 
